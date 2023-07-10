@@ -29,6 +29,7 @@ const App = () => {
 
   return (
     <div className="App">
+    
       <Input
         type="search"
         placeholder="Search People"
